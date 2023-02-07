@@ -1,0 +1,26 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "Owen Wardlaw",
+  "name": "Owen Wardlaw",
+  "ascii": "Owen Wardlaw",
+  "social": {
+    "github": "https://github.com/owardlaw",
+    "linkedin": "https://www.linkedin.com/in/owenwardlaw/"
+  },
+  "email": "owardlaw@ucsd.edu",
+  "ps1_hostname": "welcome",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "colors": {
+    "light": {
+      "background": "#253F4B",
+      "foreground": "#D5D5D5",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    }
+  }
+}
